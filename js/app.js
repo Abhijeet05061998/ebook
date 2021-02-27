@@ -4,7 +4,7 @@
 
  
 
-/* Otherwise just put the config content (json): */
+/* O */
 
 particlesJS('particles-js',
   
