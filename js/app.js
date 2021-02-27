@@ -3,8 +3,6 @@
 
 
  
-});
-*/
 
 /* Otherwise just put the config content (json): */
 
