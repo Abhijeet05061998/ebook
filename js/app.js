@@ -2,7 +2,7 @@
 
 
 
-  console.log('particles.js loaded - callback');
+ 
 });
 */
 
